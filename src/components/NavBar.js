@@ -25,6 +25,10 @@ const NavBar = () => {
           <li>
             <Link to="/form">My Form</Link>
           </li>
+
+          <li>
+              <Link to="/quotes">Quotes</Link>
+          </li>
         </ul>
     </nav>
   );

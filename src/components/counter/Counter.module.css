@@ -1,3 +1,11 @@
 .counterMain {
     display: flex;
 }
+
+.counterParent{
+    background-color: bisque;
+}
+
+.dummy {
+    background-color: darksalmon;
+}
